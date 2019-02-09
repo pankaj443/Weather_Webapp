@@ -45,7 +45,6 @@ window.addEventListener('load',()=>{
         });
     }
 
-
     function iconsetting(icon,id){
 
         const skycons = new Skycons({color: "white"});

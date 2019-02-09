@@ -41,6 +41,7 @@
     }
   }());
 
+  
   /* Catmull-rom spline stuffs. */
   /*
   function upsample(n, spline) {
